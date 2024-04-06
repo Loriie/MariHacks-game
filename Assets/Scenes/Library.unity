@@ -565,6 +565,10 @@ PrefabInstance:
       value: Player
       objectReference: {fileID: 0}
     - target: {fileID: 3805759361069479098, guid: 495518e362f1c3240bb75f829786ad9c, type: 3}
+      propertyPath: m_FlipX
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3805759361069479098, guid: 495518e362f1c3240bb75f829786ad9c, type: 3}
       propertyPath: m_SortingOrder
       value: 10
       objectReference: {fileID: 0}
